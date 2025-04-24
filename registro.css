@@ -1,0 +1,52 @@
+.titulo{
+    color: rgb(60, 10, 139);
+}
+
+p{ 
+    color: blue;
+    text-decoration-line: initial;
+}
+
+.button{
+    margin: 5px; ;
+    border-radius: 10px;
+    text-align: center;
+    color: darkgreen;
+    background-color:coral
+
+}
+
+.input{
+    margin: 5px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    color: black;
+}
+
+
+form {
+    border: 2px solid hsl(310, 75%, 45%);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 30px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+body{
+    margin: 30px;
+    padding-left: 100px;
+    font-family: arial;
+    text-align: center; 
+    background-color: coral;    
+}
+section{
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+    background-color: aquamarine;
+    width: 900px;
+}
